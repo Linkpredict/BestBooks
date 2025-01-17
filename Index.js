@@ -90,13 +90,6 @@ whiteColor.style.display= "none";
      changeColor.disabled=false;
 })
 };
-const E-mail = document.getElementById("E-mail").value
-E-mailRecieve(){
-let Recieve = document.getElementsByClassName(Reciever)
-Recieve.innertext=E-mail.innertext 
-
-
-}
 
 
 
